@@ -14,6 +14,7 @@ public class WaitNotifyClass {
         t2.start();
         t3.start();
     }
+
     public void printA() {
         synchronized (mon) {
             try {
