@@ -1,4 +1,4 @@
-package ru.geekbrains.javaCoreProf.homeWork;
+package ru.geekbrains.javaCoreProf.tasks;
 
 public class Main {
 
